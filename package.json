@@ -1,0 +1,22 @@
+{
+  "name": "misertoy-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "set SECRET1=bobi-ba-1971&nodemon --ignore \"./data\" server.js",
+    "start": "node server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cryptr": "^6.3.0",
+    "express": "^4.19.2",
+    "follow-redirects": "^1.15.6",
+    "nodemon": "^3.1.0"
+  }
+}
