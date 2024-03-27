@@ -20,11 +20,11 @@ export const toyService = {
 }
 function query(filterBy ,sortBy) {
     let toysToShow = toys
-    if (!filterBy.txt) filterBy.txt = ''
+    // if (!filterBy.txt) filterBy.txt = ''
     // if (!filterBy.inStock) filterBy.inStock = ''
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
-        filteredToys = filteredToys.filter(toy => regExp.test(toy.name))
+        toysToShow = toysToShow.filter(toy => regExp.test(toy.name))
     }
 
 
