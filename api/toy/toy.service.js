@@ -113,5 +113,5 @@ export const toyService = {
     add,
     update,
     addToyMsg,
-    removeToyMsg
+    removeToyMsg,
 }
