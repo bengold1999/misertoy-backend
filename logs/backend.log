@@ -180,3 +180,882 @@
 28.3.2024, 0:21:25 - INFO - Server listening on port http://127.0.0.1:3050/
 28.3.2024, 0:22:03 - INFO - Server listening on port http://127.0.0.1:3050/
 28.3.2024, 0:22:03 - INFO - Server listening on port http://127.0.0.1:3050/
+28.3.2024, 14:26:33 - INFO - Server listening on port http://127.0.0.1:3050/
+28.3.2024, 15:51:37 - INFO - server.js loaded... 
+28.3.2024, 15:51:37 - INFO - Server is running on port: 3050 
+28.3.2024, 16:17:35 - INFO - Req was made | / 
+28.3.2024, 16:17:35 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:17:35 - ERROR - cannot find toys | ReferenceError: logger is not defined 
+28.3.2024, 16:17:35 - ERROR - Failed to get toys | ReferenceError: logger is not defined 
+28.3.2024, 16:21:53 - INFO - Req was made | / 
+28.3.2024, 16:21:53 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:21:53 - ERROR - cannot find toys | ReferenceError: logger is not defined 
+28.3.2024, 16:21:53 - ERROR - Failed to get toys | ReferenceError: logger is not defined 
+28.3.2024, 16:21:53 - INFO - Req was made | / 
+28.3.2024, 16:21:53 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:21:53 - ERROR - cannot find toys | ReferenceError: logger is not defined 
+28.3.2024, 16:21:53 - ERROR - Failed to get toys | ReferenceError: logger is not defined 
+28.3.2024, 16:24:48 - INFO - server.js loaded... 
+28.3.2024, 16:24:48 - INFO - Server is running on port: 3050 
+28.3.2024, 16:28:45 - INFO - Req was made | / 
+28.3.2024, 16:28:45 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:28:52 - INFO - Req was made | / 
+28.3.2024, 16:28:52 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:30:24 - INFO - Req was made | / 
+28.3.2024, 16:30:24 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:30:26 - INFO - Req was made | / 
+28.3.2024, 16:30:26 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:30:52 - INFO - Req was made | / 
+28.3.2024, 16:30:52 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:30:53 - INFO - Req was made | / 
+28.3.2024, 16:30:53 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:30:54 - INFO - Req was made | / 
+28.3.2024, 16:30:54 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:30:57 - INFO - Req was made | / 
+28.3.2024, 16:30:57 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:31:42 - INFO - Req was made | / 
+28.3.2024, 16:31:42 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:32:19 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:32:19 - INFO - Req was made | / 
+28.3.2024, 16:32:55 - INFO - Req was made | / 
+28.3.2024, 16:32:55 - DEBUG - Getting Toys | {"txt":"","labels":[],"inStock":null} 
+28.3.2024, 16:37:09 - INFO - server.js loaded... 
+28.3.2024, 16:37:09 - INFO - Server is running on port: 3050 
+28.3.2024, 16:37:10 - INFO - Req was made | / 
+28.3.2024, 16:37:10 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:39:00 - INFO - Req was made | / 
+28.3.2024, 16:39:00 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:39:12 - INFO - Req was made | / 
+28.3.2024, 16:39:12 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:39:27 - INFO - server.js loaded... 
+28.3.2024, 16:39:27 - INFO - Server is running on port: 3050 
+28.3.2024, 16:39:32 - INFO - Req was made | / 
+28.3.2024, 16:39:32 - DEBUG - Getting Toys | {} 
+28.3.2024, 16:39:33 - INFO - Req was made | / 
+28.3.2024, 16:39:33 - DEBUG - Getting Toys | {} 
+28.3.2024, 16:39:37 - INFO - Req was made | / 
+28.3.2024, 16:39:37 - DEBUG - Getting Toys | {} 
+28.3.2024, 16:40:11 - INFO - Req was made | / 
+28.3.2024, 16:40:11 - DEBUG - Getting Toys | {} 
+28.3.2024, 16:40:24 - INFO - server.js loaded... 
+28.3.2024, 16:40:24 - INFO - Server is running on port: 3050 
+28.3.2024, 16:40:28 - INFO - Req was made | / 
+28.3.2024, 16:40:28 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:41:21 - INFO - Req was made | / 
+28.3.2024, 16:41:21 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:42:17 - INFO - Req was made | / 
+28.3.2024, 16:42:17 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:42:39 - INFO - server.js loaded... 
+28.3.2024, 16:42:39 - INFO - Server is running on port: 3050 
+28.3.2024, 16:42:41 - INFO - Req was made | / 
+28.3.2024, 16:42:41 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:43:37 - INFO - Req was made | / 
+28.3.2024, 16:43:37 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:43:38 - INFO - Req was made | / 
+28.3.2024, 16:43:38 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:44:11 - INFO - Req was made | / 
+28.3.2024, 16:44:11 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:48:50 - INFO - Req was made | / 
+28.3.2024, 16:48:50 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 16:54:30 - INFO - server.js loaded... 
+28.3.2024, 16:54:30 - INFO - Server is running on port: 3050 
+28.3.2024, 17:12:29 - ERROR - cannot find users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+28.3.2024, 17:12:29 - ERROR - Failed to get users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+28.3.2024, 17:13:45 - ERROR - cannot find users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+28.3.2024, 17:13:45 - ERROR - Failed to get users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+28.3.2024, 17:13:59 - ERROR - cannot find users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+28.3.2024, 17:13:59 - ERROR - Failed to get users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+28.3.2024, 17:28:13 - DEBUG - auth.service - login with username: stu 
+28.3.2024, 17:28:13 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:28:28 - DEBUG - auth.service - login with username: stu 
+28.3.2024, 17:28:28 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:31:14 - DEBUG - auth.service - login with username: stu 
+28.3.2024, 17:31:14 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:31:18 - DEBUG - auth.service - login with username: stu 
+28.3.2024, 17:31:18 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:31:29 - DEBUG - auth.service - login with username: stu  
+28.3.2024, 17:31:29 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:31:50 - DEBUG - auth.service - login with username: stu 
+28.3.2024, 17:31:50 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:33:04 - DEBUG - auth.service - login with username: stu 
+28.3.2024, 17:33:04 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:33:05 - DEBUG - auth.service - login with username: stu 
+28.3.2024, 17:33:05 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:33:51 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:33:51 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:33:52 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:33:52 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:34:20 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:34:20 - ERROR - Failed to Login Error: data and hash must be strings 
+28.3.2024, 17:34:28 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:34:28 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:37:46 - INFO - Req was made | / 
+28.3.2024, 17:37:46 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:46 - INFO - Req was made | / 
+28.3.2024, 17:37:46 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:49 - INFO - Req was made | / 
+28.3.2024, 17:37:49 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:49 - INFO - Req was made | / 
+28.3.2024, 17:37:49 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:51 - INFO - Req was made | / 
+28.3.2024, 17:37:51 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:53 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:53 - INFO - Req was made | / 
+28.3.2024, 17:37:54 - INFO - Req was made | / 
+28.3.2024, 17:37:54 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:55 - INFO - Req was made | / 
+28.3.2024, 17:37:55 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:56 - INFO - Req was made | / 
+28.3.2024, 17:37:56 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:37:57 - INFO - Req was made | / 
+28.3.2024, 17:37:57 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:38:04 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:38:04 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:39:22 - INFO - Req was made | / 
+28.3.2024, 17:39:22 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:39:22 - INFO - Req was made | / 
+28.3.2024, 17:39:22 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:39:24 - INFO - Req was made | / 
+28.3.2024, 17:39:24 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:39:24 - INFO - Req was made | / 
+28.3.2024, 17:39:24 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:41:18 - INFO - Req was made | / 
+28.3.2024, 17:41:18 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:41:18 - INFO - Req was made | / 
+28.3.2024, 17:41:18 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 17:42:50 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:42:50 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:43:46 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:43:46 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:49:26 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:49:26 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:50:32 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:50:32 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:51:44 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:51:44 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:53:08 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:53:08 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:53:29 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:53:29 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:54:41 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:54:41 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:55:26 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:55:26 - ERROR - Failed to Login Error: Invalid username or password 
+28.3.2024, 17:55:45 - DEBUG - auth.service - login with username: rick 
+28.3.2024, 17:55:45 - ERROR - Failed to Login Error: data and hash must be strings 
+28.3.2024, 17:57:33 - DEBUG - auth.service - signup with username: admin, fullname: Admin 
+28.3.2024, 17:57:33 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$bZf8nHf0DxxVke0ifJPKvOGLklOcnKTkLbhcA1RYghq6chRpIa.GK","fullname":"Admin","score":0,"_id":"6605936d7690444ca08b0076"} 
+28.3.2024, 17:57:33 - DEBUG - auth.service - login with username: admin 
+28.3.2024, 17:57:52 - DEBUG - auth.service - login with username: admin 
+28.3.2024, 17:57:52 - INFO - User login:  | {"_id":"6605936d7690444ca08b0076","username":"admin","fullname":"Admin","score":0} 
+28.3.2024, 18:07:04 - DEBUG - auth.service - signup with username: ben, fullname: undefined 
+28.3.2024, 18:07:04 - ERROR - Failed to signup Error: Missing details 
+28.3.2024, 18:07:51 - DEBUG - auth.service - signup with username: ben, fullname: bendon 
+28.3.2024, 18:07:51 - DEBUG - auth.route - new account created: {"username":"ben","password":"$2b$10$XY8lKhnJvkdOnQ1iutFjJOc9bWTVugy3tlTArME/2ft6bDOmGcw8W","fullname":"bendon","score":0,"_id":"660595d77690444ca08b0077"} 
+28.3.2024, 18:07:51 - DEBUG - auth.service - login with username: ben 
+28.3.2024, 18:10:33 - DEBUG - auth.service - signup with username: ben, fullname: bendon 
+28.3.2024, 18:10:33 - DEBUG - auth.route - new account created: {"username":"ben","password":"$2b$10$vPskmfoaMjynV4f74lEP9uTga7..KG36AbRMnG5VwQ4.uBqNGXPSe","fullname":"bendon","score":0,"_id":"660596797690444ca08b0078"} 
+28.3.2024, 18:10:33 - DEBUG - auth.service - login with username: ben 
+28.3.2024, 18:13:52 - INFO - server.js loaded... 
+28.3.2024, 18:13:52 - INFO - Server is running on port: 3050 
+28.3.2024, 18:14:06 - DEBUG - auth.service - signup with username: ben, fullname: bendon 
+28.3.2024, 18:14:06 - DEBUG - auth.route - new account created: {"username":"ben","password":"$2b$10$x5QJOs.z70N5VadCPxTz4.9J/OftkGnyzjBDxMmOhYSGEwOhkgRP2","fullname":"bendon","isAdmin":false,"createdAt":1711642446995,"_id":"6605974e92e1ce7514774a14"} 
+28.3.2024, 18:14:06 - DEBUG - auth.service - login with username: ben 
+28.3.2024, 18:16:44 - DEBUG - auth.service - login with username: ben 
+28.3.2024, 18:16:44 - INFO - User login:  | {"_id":"6605974e92e1ce7514774a14","username":"ben","fullname":"bendon","isAdmin":false,"createdAt":1711642446995} 
+28.3.2024, 18:20:14 - INFO - server.js loaded... 
+28.3.2024, 18:20:14 - INFO - Server is running on port: 3050 
+28.3.2024, 18:27:49 - INFO - Req was made | / 
+28.3.2024, 18:27:49 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:27:49 - INFO - Req was made | / 
+28.3.2024, 18:27:49 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:29:23 - INFO - Req was made | / 
+28.3.2024, 18:29:23 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:29:23 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:29:23 - INFO - Req was made | / 
+28.3.2024, 18:29:29 - INFO - Req was made | / 
+28.3.2024, 18:29:29 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:29:29 - INFO - Req was made | / 
+28.3.2024, 18:29:29 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:29:39 - INFO - Req was made | / 
+28.3.2024, 18:29:39 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:29:39 - INFO - Req was made | / 
+28.3.2024, 18:29:39 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:35:41 - INFO - server.js loaded... 
+28.3.2024, 18:35:41 - INFO - Server is running on port: 3050 
+28.3.2024, 18:35:43 - INFO - Req was made | / 
+28.3.2024, 18:35:43 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:35:43 - INFO - Req was made | / 
+28.3.2024, 18:35:43 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:39:29 - WARN - bendonattempted to perform admin action 
+28.3.2024, 18:40:34 - INFO - Req was made | / 
+28.3.2024, 18:40:34 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:40:34 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:40:34 - INFO - Req was made | / 
+28.3.2024, 18:40:53 - INFO - Req was made | / 
+28.3.2024, 18:40:53 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:40:53 - INFO - Req was made | / 
+28.3.2024, 18:40:53 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:51:11 - INFO - Req was made | / 
+28.3.2024, 18:51:11 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:51:11 - INFO - Req was made | / 
+28.3.2024, 18:51:11 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:51:16 - INFO - Req was made | / 
+28.3.2024, 18:51:16 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:51:16 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:51:16 - INFO - Req was made | / 
+28.3.2024, 18:52:41 - INFO - Req was made | / 
+28.3.2024, 18:52:41 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:52:41 - INFO - Req was made | / 
+28.3.2024, 18:52:41 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:53:00 - INFO - Req was made | / 
+28.3.2024, 18:53:00 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:53:00 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:53:00 - INFO - Req was made | / 
+28.3.2024, 18:54:15 - INFO - Req was made | / 
+28.3.2024, 18:54:15 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:54:15 - INFO - Req was made | / 
+28.3.2024, 18:54:15 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:54:46 - INFO - Req was made | / 
+28.3.2024, 18:54:46 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:54:46 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 18:54:46 - INFO - Req was made | / 
+28.3.2024, 19:01:17 - INFO - Req was made | / 
+28.3.2024, 19:01:17 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:01:17 - INFO - Req was made | / 
+28.3.2024, 19:01:17 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:01:42 - DEBUG - auth.service - signup with username: bengold1999, fullname: ben goldberger 
+28.3.2024, 19:01:42 - DEBUG - auth.service - login with username: bengold1999 
+28.3.2024, 19:01:42 - DEBUG - auth.route - new account created: {"username":"bengold1999","password":"$2b$10$pX8Gky0vebOJcUFuGy4js.JPn6/Yr4WEy4GgmOKwcDFWoFq6Y7IJa","fullname":"ben goldberger","isAdmin":false,"createdAt":1711645302480,"_id":"6605a2767cf23c834ca4f58d"} 
+28.3.2024, 19:11:38 - INFO - Req was made | / 
+28.3.2024, 19:11:38 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:11:38 - INFO - Req was made | / 
+28.3.2024, 19:11:38 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:13:27 - INFO - Req was made | / 
+28.3.2024, 19:13:27 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:13:27 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:13:27 - INFO - Req was made | / 
+28.3.2024, 19:23:29 - DEBUG - auth.service - signup with username: benhagever, fullname: bulbul 
+28.3.2024, 19:23:29 - DEBUG - auth.service - login with username: benhagever 
+28.3.2024, 19:23:29 - DEBUG - auth.route - new account created: {"username":"benhagever","password":"$2b$10$E5UkwVuI0mxLqOOQlj/LA.3iFL9uE1jTR.ERpDlKMptrfl9WkR76q","fullname":"bulbul","isAdmin":false,"createdAt":1711646609549,"_id":"6605a7917cf23c834ca4f58f"} 
+28.3.2024, 19:24:41 - INFO - Req was made | / 
+28.3.2024, 19:24:41 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:24:41 - INFO - Req was made | / 
+28.3.2024, 19:24:41 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:26:03 - INFO - Req was made | / 
+28.3.2024, 19:26:03 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:26:03 - INFO - Req was made | / 
+28.3.2024, 19:26:03 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:27:25 - INFO - Req was made | / 
+28.3.2024, 19:27:25 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:28:14 - INFO - Req was made | / 
+28.3.2024, 19:28:14 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:28:14 - INFO - Req was made | / 
+28.3.2024, 19:28:14 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:28:53 - INFO - Req was made | / 
+28.3.2024, 19:28:53 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:28:53 - INFO - Req was made | / 
+28.3.2024, 19:28:53 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:30:51 - INFO - Req was made | / 
+28.3.2024, 19:30:51 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:30:51 - INFO - Req was made | / 
+28.3.2024, 19:30:51 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:30:55 - INFO - Req was made | / 
+28.3.2024, 19:30:55 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:30:55 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:30:55 - INFO - Req was made | / 
+28.3.2024, 19:50:26 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:50:26 - INFO - Req was made | / 
+28.3.2024, 19:50:26 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:50:26 - INFO - Req was made | / 
+28.3.2024, 19:56:48 - INFO - Req was made | / 
+28.3.2024, 19:56:48 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:56:52 - INFO - Req was made | / 
+28.3.2024, 19:56:52 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:56:53 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:56:53 - INFO - Req was made | / 
+28.3.2024, 19:56:54 - INFO - Req was made | / 
+28.3.2024, 19:56:54 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:56:55 - INFO - Req was made | / 
+28.3.2024, 19:56:55 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:56:56 - INFO - Req was made | / 
+28.3.2024, 19:56:56 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:56:57 - INFO - Req was made | / 
+28.3.2024, 19:56:57 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:56:59 - INFO - Req was made | / 
+28.3.2024, 19:56:59 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:03 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:03 - INFO - Req was made | / 
+28.3.2024, 19:57:03 - INFO - Req was made | / 
+28.3.2024, 19:57:03 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:06 - INFO - Req was made | / 
+28.3.2024, 19:57:06 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:08 - INFO - Req was made | / 
+28.3.2024, 19:57:08 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:14 - INFO - Req was made | / 
+28.3.2024, 19:57:14 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:14 - INFO - Req was made | / 
+28.3.2024, 19:57:14 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:15 - INFO - Req was made | / 
+28.3.2024, 19:57:15 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:16 - INFO - Req was made | / 
+28.3.2024, 19:57:16 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:17 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:17 - INFO - Req was made | / 
+28.3.2024, 19:57:19 - INFO - Req was made | / 
+28.3.2024, 19:57:19 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:20 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:57:20 - INFO - Req was made | / 
+28.3.2024, 19:57:21 - INFO - Req was made | / 
+28.3.2024, 19:57:21 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:58:44 - INFO - Req was made | / 
+28.3.2024, 19:58:44 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 19:58:44 - INFO - Req was made | / 
+28.3.2024, 19:58:44 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:02:45 - INFO - Req was made | / 
+28.3.2024, 20:02:45 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:02:45 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:02:45 - INFO - Req was made | / 
+28.3.2024, 20:03:54 - INFO - server.js loaded... 
+28.3.2024, 20:03:54 - INFO - Server is running on port: 3050 
+28.3.2024, 20:03:56 - INFO - Req was made | / 
+28.3.2024, 20:03:56 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:03:56 - INFO - Req was made | / 
+28.3.2024, 20:03:56 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:04:20 - INFO - Req was made | / 
+28.3.2024, 20:04:20 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:04:20 - INFO - Req was made | / 
+28.3.2024, 20:04:20 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:04:43 - INFO - server.js loaded... 
+28.3.2024, 20:04:43 - INFO - Server is running on port: 3050 
+28.3.2024, 20:05:04 - INFO - Req was made | / 
+28.3.2024, 20:05:04 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:05:04 - INFO - Req was made | / 
+28.3.2024, 20:05:04 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:06:20 - INFO - server.js loaded... 
+28.3.2024, 20:06:20 - INFO - Server is running on port: 3050 
+28.3.2024, 20:06:23 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:06:23 - INFO - Req was made | / 
+28.3.2024, 20:06:23 - INFO - Req was made | / 
+28.3.2024, 20:06:23 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:06:36 - INFO - Req was made | / 
+28.3.2024, 20:06:36 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:06:36 - INFO - Req was made | / 
+28.3.2024, 20:06:36 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:11:31 - INFO - Req was made | / 
+28.3.2024, 20:11:31 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:11:31 - INFO - Req was made | / 
+28.3.2024, 20:11:31 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:11:36 - INFO - Req was made | / 
+28.3.2024, 20:11:36 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:11:36 - INFO - Req was made | / 
+28.3.2024, 20:11:36 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:24:16 - INFO - Req was made | / 
+28.3.2024, 20:24:16 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:26:54 - INFO - Req was made | / 
+28.3.2024, 20:26:54 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:26:54 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:26:54 - INFO - Req was made | / 
+28.3.2024, 20:45:06 - INFO - server.js loaded... 
+28.3.2024, 20:45:06 - INFO - Server is running on port: 3050 
+28.3.2024, 20:54:03 - INFO - Req was made | / 
+28.3.2024, 20:54:03 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:54:03 - INFO - Req was made | / 
+28.3.2024, 20:54:03 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:54:13 - INFO - Req was made | / 
+28.3.2024, 20:54:13 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:54:13 - INFO - Req was made | / 
+28.3.2024, 20:54:13 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:54:15 - INFO - Req was made | / 
+28.3.2024, 20:54:15 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:54:15 - INFO - Req was made | / 
+28.3.2024, 20:54:15 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:59:10 - INFO - server.js loaded... 
+28.3.2024, 20:59:10 - INFO - Server is running on port: 3050 
+28.3.2024, 20:59:12 - INFO - Req was made | / 
+28.3.2024, 20:59:12 - DEBUG - Getting Toys | {"txt":""} 
+28.3.2024, 20:59:13 - INFO - Req was made | / 
+28.3.2024, 20:59:13 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 15:39:54 - INFO - server.js loaded... 
+30.3.2024, 15:39:54 - INFO - Server is running on port: 3050 
+30.3.2024, 15:40:23 - INFO - Req was made | / 
+30.3.2024, 15:40:23 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 15:40:23 - INFO - Req was made | / 
+30.3.2024, 15:40:23 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:00:35 - INFO - Req was made | / 
+30.3.2024, 17:00:35 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:00:35 - INFO - Req was made | / 
+30.3.2024, 17:00:35 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:01:14 - INFO - Req was made | / 
+30.3.2024, 17:01:14 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:01:14 - INFO - Req was made | / 
+30.3.2024, 17:01:14 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:01:23 - INFO - Req was made | / 
+30.3.2024, 17:01:23 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:01:23 - INFO - Req was made | / 
+30.3.2024, 17:01:23 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:01:52 - INFO - Req was made | / 
+30.3.2024, 17:01:52 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:01:54 - INFO - Req was made | / 
+30.3.2024, 17:01:54 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:02:25 - DEBUG - auth.service - signup with username: hoho, fullname: hoho 
+30.3.2024, 17:02:25 - DEBUG - auth.route - new account created: {"username":"hoho","password":"$2b$10$v/k1N/EucT20NYJAnnoieO.4beKBwDbbflbMdt7qvAoD2SSI7Yrta","fullname":"hoho","isAdmin":false,"createdAt":1711807345986,"_id":"66081b71a110d61ab4878cc1"} 
+30.3.2024, 17:02:25 - DEBUG - auth.service - login with username: hoho 
+30.3.2024, 17:03:35 - INFO - Req was made | / 
+30.3.2024, 17:03:35 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:03:35 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:03:35 - INFO - Req was made | / 
+30.3.2024, 17:04:32 - INFO - Req was made | / 
+30.3.2024, 17:04:32 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:04:32 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:04:32 - INFO - Req was made | / 
+30.3.2024, 17:04:55 - INFO - Req was made | / 
+30.3.2024, 17:04:55 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:04:55 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:04:55 - INFO - Req was made | / 
+30.3.2024, 17:06:44 - INFO - Req was made | / 
+30.3.2024, 17:06:44 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:45 - INFO - Req was made | / 
+30.3.2024, 17:06:45 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:46 - INFO - Req was made | / 
+30.3.2024, 17:06:46 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:47 - INFO - Req was made | / 
+30.3.2024, 17:06:47 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:48 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:48 - INFO - Req was made | / 
+30.3.2024, 17:06:49 - INFO - Req was made | / 
+30.3.2024, 17:06:49 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:49 - INFO - Req was made | / 
+30.3.2024, 17:06:49 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:50 - INFO - Req was made | / 
+30.3.2024, 17:06:50 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:51 - INFO - Req was made | / 
+30.3.2024, 17:06:51 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:06:58 - INFO - Req was made | / 
+30.3.2024, 17:06:58 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:11:30 - INFO - Req was made | / 
+30.3.2024, 17:11:30 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:11:36 - INFO - Req was made | / 
+30.3.2024, 17:11:36 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:11:43 - INFO - Req was made | / 
+30.3.2024, 17:11:43 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:16:10 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:16:10 - INFO - Req was made | / 
+30.3.2024, 17:16:14 - INFO - Req was made | / 
+30.3.2024, 17:16:14 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:16:56 - INFO - server.js loaded... 
+30.3.2024, 17:16:56 - INFO - Server is running on port: 3050 
+30.3.2024, 17:17:04 - INFO - Req was made | / 
+30.3.2024, 17:17:04 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:18:33 - INFO - server.js loaded... 
+30.3.2024, 17:18:33 - INFO - Server is running on port: 3050 
+30.3.2024, 17:18:37 - INFO - Req was made | / 
+30.3.2024, 17:18:37 - DEBUG - Getting Toys |  
+30.3.2024, 17:18:40 - INFO - Req was made | / 
+30.3.2024, 17:18:40 - DEBUG - Getting Toys |  
+30.3.2024, 17:18:43 - INFO - Req was made | / 
+30.3.2024, 17:18:43 - DEBUG - Getting Toys |  
+30.3.2024, 17:18:49 - INFO - Req was made | / 
+30.3.2024, 17:18:49 - DEBUG - Getting Toys |  
+30.3.2024, 17:18:58 - INFO - Req was made | / 
+30.3.2024, 17:18:58 - DEBUG - Getting Toys |  
+30.3.2024, 17:19:38 - INFO - server.js loaded... 
+30.3.2024, 17:19:38 - INFO - Server is running on port: 3050 
+30.3.2024, 17:19:38 - INFO - Req was made | / 
+30.3.2024, 17:19:41 - DEBUG - Getting Toys | {"txt":"dssss"} 
+30.3.2024, 17:19:44 - INFO - Req was made | / 
+30.3.2024, 17:19:47 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:19:50 - INFO - Req was made | / 
+30.3.2024, 17:19:50 - DEBUG - Getting Toys | {"txt":"s"} 
+30.3.2024, 17:19:53 - INFO - Req was made | / 
+30.3.2024, 17:19:53 - DEBUG - Getting Toys | {"txt":"ss"} 
+30.3.2024, 17:19:53 - INFO - Req was made | / 
+30.3.2024, 17:19:53 - DEBUG - Getting Toys | {"txt":"sss"} 
+30.3.2024, 17:19:55 - INFO - Req was made | / 
+30.3.2024, 17:19:55 - DEBUG - Getting Toys | {"txt":"ss"} 
+30.3.2024, 17:19:56 - INFO - Req was made | / 
+30.3.2024, 17:19:56 - DEBUG - Getting Toys | {"txt":"s"} 
+30.3.2024, 17:20:01 - INFO - Req was made | / 
+30.3.2024, 17:20:01 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:20:02 - INFO - Req was made | / 
+30.3.2024, 17:20:02 - DEBUG - Getting Toys | {"txt":"ben"} 
+30.3.2024, 17:20:07 - INFO - Req was made | / 
+30.3.2024, 17:20:07 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:20:22 - INFO - Req was made | / 
+30.3.2024, 17:20:22 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:20:25 - INFO - Req was made | / 
+30.3.2024, 17:20:25 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:20:53 - INFO - Req was made | / 
+30.3.2024, 17:20:53 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:21:09 - INFO - Req was made | / 
+30.3.2024, 17:21:09 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":"true"} 
+30.3.2024, 17:21:19 - INFO - Req was made | / 
+30.3.2024, 17:21:19 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":"true"} 
+30.3.2024, 17:21:20 - INFO - Req was made | / 
+30.3.2024, 17:21:20 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":"true"} 
+30.3.2024, 17:21:20 - INFO - Req was made | / 
+30.3.2024, 17:21:20 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":"true"} 
+30.3.2024, 17:21:21 - INFO - Req was made | / 
+30.3.2024, 17:21:21 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":"true"} 
+30.3.2024, 17:25:29 - INFO - Req was made | / 
+30.3.2024, 17:25:29 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":""} 
+30.3.2024, 17:31:31 - INFO - Req was made | / 
+30.3.2024, 17:31:31 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":""} 
+30.3.2024, 17:32:15 - INFO - Req was made | / 
+30.3.2024, 17:32:15 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:32:15 - INFO - Req was made | / 
+30.3.2024, 17:32:15 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:32:20 - INFO - Req was made | / 
+30.3.2024, 17:32:20 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:32:25 - INFO - Req was made | / 
+30.3.2024, 17:32:25 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:32:28 - INFO - Req was made | / 
+30.3.2024, 17:32:28 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:32:40 - INFO - Req was made | / 
+30.3.2024, 17:32:51 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:32:51 - INFO - Req was made | / 
+30.3.2024, 17:32:52 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:32:52 - INFO - Req was made | / 
+30.3.2024, 17:32:53 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:33:02 - INFO - Req was made | / 
+30.3.2024, 17:33:09 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:33:50 - INFO - server.js loaded... 
+30.3.2024, 17:33:50 - INFO - Server is running on port: 3050 
+30.3.2024, 17:34:07 - INFO - Req was made | / 
+30.3.2024, 17:34:09 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:34:09 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:34:09 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:34:10 - INFO - Req was made | / 
+30.3.2024, 17:34:14 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:34:22 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:34:22 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:34:22 - INFO - Req was made | / 
+30.3.2024, 17:34:23 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:34:24 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:34:24 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:36:14 - INFO - server.js loaded... 
+30.3.2024, 17:36:14 - INFO - Server is running on port: 3050 
+30.3.2024, 17:36:14 - INFO - Req was made | / 
+30.3.2024, 17:36:15 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:36:15 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:36:15 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:36:15 - INFO - Req was made | / 
+30.3.2024, 17:36:16 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:36:16 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:36:16 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:36:18 - INFO - Req was made | / 
+30.3.2024, 17:36:19 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:36:21 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:36:21 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:36:54 - INFO - server.js loaded... 
+30.3.2024, 17:36:54 - INFO - Server is running on port: 3050 
+30.3.2024, 17:36:54 - INFO - Req was made | / 
+30.3.2024, 17:36:56 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:36:56 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:36:56 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:36:56 - INFO - Req was made | / 
+30.3.2024, 17:36:57 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:36:57 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:36:57 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:36:59 - INFO - Req was made | / 
+30.3.2024, 17:37:00 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:37:02 - ERROR - Failed to get toys | MongoError: $all needs an array 
+30.3.2024, 17:37:02 - ERROR - cannot find toys | MongoError: $all needs an array 
+30.3.2024, 17:37:27 - INFO - server.js loaded... 
+30.3.2024, 17:37:27 - INFO - Server is running on port: 3050 
+30.3.2024, 17:37:39 - INFO - Req was made | / 
+30.3.2024, 17:37:41 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:38:19 - INFO - server.js loaded... 
+30.3.2024, 17:38:19 - INFO - Server is running on port: 3050 
+30.3.2024, 17:38:21 - INFO - Req was made | / 
+30.3.2024, 17:38:23 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:38:58 - INFO - server.js loaded... 
+30.3.2024, 17:38:58 - INFO - Server is running on port: 3050 
+30.3.2024, 17:39:02 - INFO - Req was made | / 
+30.3.2024, 17:39:04 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:39:08 - INFO - Req was made | / 
+30.3.2024, 17:39:09 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:39:49 - INFO - Req was made | / 
+30.3.2024, 17:39:51 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:39:51 - INFO - Req was made | / 
+30.3.2024, 17:39:51 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:10 - INFO - Req was made | / 
+30.3.2024, 17:40:12 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:12 - INFO - Req was made | / 
+30.3.2024, 17:40:12 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:16 - INFO - server.js loaded... 
+30.3.2024, 17:40:16 - INFO - Server is running on port: 3050 
+30.3.2024, 17:40:19 - INFO - Req was made | / 
+30.3.2024, 17:40:20 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:20 - INFO - Req was made | / 
+30.3.2024, 17:40:21 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:37 - INFO - Req was made | / 
+30.3.2024, 17:40:39 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:39 - INFO - Req was made | / 
+30.3.2024, 17:40:39 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:41 - INFO - Req was made | / 
+30.3.2024, 17:40:42 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:42 - INFO - Req was made | / 
+30.3.2024, 17:40:42 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:40:56 - INFO - Req was made | / 
+30.3.2024, 17:40:58 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:41:02 - INFO - Req was made | / 
+30.3.2024, 17:41:02 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:41:11 - INFO - Req was made | / 
+30.3.2024, 17:41:12 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:41:13 - INFO - Req was made | / 
+30.3.2024, 17:41:13 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:41:15 - INFO - Req was made | / 
+30.3.2024, 17:41:16 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:41:17 - INFO - Req was made | / 
+30.3.2024, 17:41:17 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:41:42 - INFO - server.js loaded... 
+30.3.2024, 17:41:42 - INFO - Server is running on port: 3050 
+30.3.2024, 17:41:46 - INFO - server.js loaded... 
+30.3.2024, 17:41:46 - INFO - Server is running on port: 3050 
+30.3.2024, 17:41:52 - INFO - Req was made | / 
+30.3.2024, 17:41:54 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:41:55 - INFO - Req was made | / 
+30.3.2024, 17:41:58 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:10 - INFO - Req was made | / 
+30.3.2024, 17:42:11 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:12 - INFO - Req was made | / 
+30.3.2024, 17:42:12 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:15 - INFO - server.js loaded... 
+30.3.2024, 17:42:15 - INFO - Server is running on port: 3050 
+30.3.2024, 17:42:20 - INFO - Req was made | / 
+30.3.2024, 17:42:21 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:21 - INFO - Req was made | / 
+30.3.2024, 17:42:22 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:24 - INFO - Req was made | / 
+30.3.2024, 17:42:25 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:33 - INFO - Req was made | / 
+30.3.2024, 17:42:34 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:51 - INFO - server.js loaded... 
+30.3.2024, 17:42:51 - INFO - Server is running on port: 3050 
+30.3.2024, 17:42:54 - INFO - Req was made | / 
+30.3.2024, 17:42:55 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:42:56 - INFO - Req was made | / 
+30.3.2024, 17:42:56 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:44:30 - INFO - server.js loaded... 
+30.3.2024, 17:44:30 - INFO - Server is running on port: 3050 
+30.3.2024, 17:44:36 - INFO - Req was made | / 
+30.3.2024, 17:44:38 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:44:38 - INFO - Req was made | / 
+30.3.2024, 17:44:39 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:44:45 - INFO - Req was made | / 
+30.3.2024, 17:44:47 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:44:53 - INFO - Req was made | / 
+30.3.2024, 17:44:53 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:44:55 - INFO - Req was made | / 
+30.3.2024, 17:44:55 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:44:57 - INFO - Req was made | / 
+30.3.2024, 17:44:57 - DEBUG - Getting Toys | {"txt":"","inStock":""} 
+30.3.2024, 17:44:58 - INFO - Req was made | / 
+30.3.2024, 17:44:58 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:45:30 - INFO - server.js loaded... 
+30.3.2024, 17:45:30 - INFO - Server is running on port: 3050 
+30.3.2024, 17:45:37 - INFO - Req was made | / 
+30.3.2024, 17:45:37 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:45:40 - INFO - Req was made | / 
+30.3.2024, 17:45:40 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:45:48 - INFO - Req was made | / 
+30.3.2024, 17:45:48 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:45:48 - INFO - Req was made | / 
+30.3.2024, 17:45:48 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:45:55 - INFO - Req was made | / 
+30.3.2024, 17:45:55 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:46:00 - INFO - Req was made | / 
+30.3.2024, 17:46:00 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:46:40 - INFO - server.js loaded... 
+30.3.2024, 17:46:40 - INFO - Server is running on port: 3050 
+30.3.2024, 17:46:42 - INFO - Req was made | / 
+30.3.2024, 17:46:42 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:46:43 - INFO - Req was made | / 
+30.3.2024, 17:46:43 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:46:46 - INFO - Req was made | / 
+30.3.2024, 17:46:46 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:47:00 - INFO - Req was made | / 
+30.3.2024, 17:47:00 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:47:05 - INFO - Req was made | / 
+30.3.2024, 17:47:05 - DEBUG - Getting Toys | {"txt":"","inStock":""} 
+30.3.2024, 17:47:07 - ERROR - cannot find toys | SyntaxError: Unexpected end of JSON input 
+30.3.2024, 17:47:07 - ERROR - Failed to get toys | SyntaxError: Unexpected end of JSON input 
+30.3.2024, 17:47:17 - INFO - Req was made | / 
+30.3.2024, 17:47:17 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:47:21 - INFO - Req was made | / 
+30.3.2024, 17:47:21 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:47:23 - INFO - Req was made | / 
+30.3.2024, 17:47:23 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:47:28 - INFO - Req was made | / 
+30.3.2024, 17:47:28 - DEBUG - Getting Toys | {"txt":"","inStock":""} 
+30.3.2024, 17:47:28 - ERROR - cannot find toys | SyntaxError: Unexpected end of JSON input 
+30.3.2024, 17:47:28 - ERROR - Failed to get toys | SyntaxError: Unexpected end of JSON input 
+30.3.2024, 17:47:40 - INFO - Req was made | / 
+30.3.2024, 17:47:40 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:48:25 - INFO - server.js loaded... 
+30.3.2024, 17:48:25 - INFO - Server is running on port: 3050 
+30.3.2024, 17:48:29 - INFO - Req was made | / 
+30.3.2024, 17:48:29 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:29 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:29 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:29 - INFO - Req was made | / 
+30.3.2024, 17:48:29 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:29 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:29 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:30 - INFO - Req was made | / 
+30.3.2024, 17:48:30 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:30 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:30 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:30 - INFO - Req was made | / 
+30.3.2024, 17:48:30 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:30 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:30 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:31 - INFO - Req was made | / 
+30.3.2024, 17:48:31 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:31 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:31 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:31 - INFO - Req was made | / 
+30.3.2024, 17:48:31 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:31 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:31 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:32 - INFO - Req was made | / 
+30.3.2024, 17:48:32 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:32 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:32 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:32 - INFO - Req was made | / 
+30.3.2024, 17:48:32 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:32 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:32 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:53 - INFO - Req was made | / 
+30.3.2024, 17:48:53 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:53 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:53 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:53 - INFO - Req was made | / 
+30.3.2024, 17:48:53 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:53 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:53 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:54 - INFO - Req was made | / 
+30.3.2024, 17:48:54 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:54 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:54 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:54 - INFO - Req was made | / 
+30.3.2024, 17:48:54 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:48:54 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:48:54 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:09 - INFO - Req was made | / 
+30.3.2024, 17:49:09 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:09 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:09 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:09 - INFO - Req was made | / 
+30.3.2024, 17:49:09 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:09 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:09 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:10 - INFO - Req was made | / 
+30.3.2024, 17:49:10 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:10 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:10 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:10 - INFO - Req was made | / 
+30.3.2024, 17:49:10 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:10 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:10 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:15 - INFO - server.js loaded... 
+30.3.2024, 17:49:15 - INFO - Server is running on port: 3050 
+30.3.2024, 17:49:17 - INFO - Req was made | / 
+30.3.2024, 17:49:17 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:17 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:17 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:17 - INFO - Req was made | / 
+30.3.2024, 17:49:17 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:17 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:17 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:18 - INFO - Req was made | / 
+30.3.2024, 17:49:18 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:18 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:18 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:18 - INFO - Req was made | / 
+30.3.2024, 17:49:18 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:18 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:18 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+30.3.2024, 17:49:46 - INFO - server.js loaded... 
+30.3.2024, 17:49:46 - INFO - Server is running on port: 3050 
+30.3.2024, 17:49:47 - INFO - Req was made | / 
+30.3.2024, 17:49:47 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:49 - INFO - Req was made | / 
+30.3.2024, 17:49:49 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:49:55 - INFO - Req was made | / 
+30.3.2024, 17:49:55 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:49:58 - INFO - Req was made | / 
+30.3.2024, 17:49:58 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:50:12 - INFO - Req was made | / 
+30.3.2024, 17:50:12 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:50:14 - INFO - Req was made | / 
+30.3.2024, 17:50:14 - DEBUG - Getting Toys | {"txt":"","inStock":""} 
+30.3.2024, 17:50:27 - INFO - Req was made | / 
+30.3.2024, 17:50:27 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:50:34 - INFO - Req was made | / 
+30.3.2024, 17:50:34 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:50:53 - INFO - Req was made | / 
+30.3.2024, 17:50:53 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:50:55 - INFO - Req was made | / 
+30.3.2024, 17:50:55 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:50:57 - INFO - Req was made | / 
+30.3.2024, 17:50:57 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:50:58 - INFO - Req was made | / 
+30.3.2024, 17:50:58 - DEBUG - Getting Toys | {"txt":"","inStock":""} 
+30.3.2024, 17:51:06 - INFO - Req was made | / 
+30.3.2024, 17:51:06 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:51:08 - INFO - Req was made | / 
+30.3.2024, 17:51:08 - DEBUG - Getting Toys | {"txt":"","inStock":""} 
+30.3.2024, 17:51:11 - INFO - Req was made | / 
+30.3.2024, 17:51:11 - DEBUG - Getting Toys | {"txt":"","inStock":"false"} 
+30.3.2024, 17:51:23 - INFO - Req was made | / 
+30.3.2024, 17:51:23 - DEBUG - Getting Toys | {"txt":"","inStock":"true"} 
+30.3.2024, 17:51:24 - INFO - Req was made | / 
+30.3.2024, 17:51:24 - DEBUG - Getting Toys | {"txt":"","inStock":""} 
+30.3.2024, 17:51:27 - INFO - Req was made | / 
+30.3.2024, 17:51:27 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"],"inStock":""} 
+30.3.2024, 17:51:32 - INFO - Req was made | / 
+30.3.2024, 17:51:32 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","On wheels"],"inStock":""} 
+30.3.2024, 17:51:34 - INFO - Req was made | / 
+30.3.2024, 17:51:34 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","On wheels","Art"],"inStock":""} 
+30.3.2024, 17:51:34 - INFO - Req was made | / 
+30.3.2024, 17:51:34 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","On wheels","Art","Baby"],"inStock":""} 
+30.3.2024, 17:51:35 - INFO - Req was made | / 
+30.3.2024, 17:51:35 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","On wheels","Art","Baby","Doll"],"inStock":""} 
+30.3.2024, 17:51:36 - INFO - Req was made | / 
+30.3.2024, 17:51:36 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","On wheels","Art","Baby","Doll","Puzzle"],"inStock":""} 
+30.3.2024, 17:51:43 - INFO - Req was made | / 
+30.3.2024, 17:51:43 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Art","Baby","Doll","Puzzle"],"inStock":""} 
+30.3.2024, 17:51:45 - INFO - Req was made | / 
+30.3.2024, 17:51:45 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Baby","Doll","Puzzle"],"inStock":""} 
+30.3.2024, 17:51:46 - INFO - Req was made | / 
+30.3.2024, 17:51:46 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Baby","Doll","Puzzle","Art"],"inStock":""} 
+30.3.2024, 17:51:48 - INFO - Req was made | / 
+30.3.2024, 17:51:48 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:51:48 - INFO - Req was made | / 
+30.3.2024, 17:51:48 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:52:06 - INFO - Req was made | / 
+30.3.2024, 17:52:06 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+30.3.2024, 17:52:11 - INFO - Req was made | / 
+30.3.2024, 17:52:11 - DEBUG - Getting Toys | {"txt":"","labels":["Doll","Baby"]} 
+30.3.2024, 17:53:07 - INFO - Req was made | / 
+30.3.2024, 17:53:07 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:53:07 - INFO - Req was made | / 
+30.3.2024, 17:53:07 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:53:09 - INFO - Req was made | / 
+30.3.2024, 17:53:09 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+30.3.2024, 17:53:15 - INFO - Req was made | / 
+30.3.2024, 17:53:15 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:53:20 - INFO - Req was made | / 
+30.3.2024, 17:53:20 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:53:24 - INFO - Req was made | / 
+30.3.2024, 17:53:24 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:53:29 - INFO - Req was made | / 
+30.3.2024, 17:53:29 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:53:33 - INFO - Req was made | / 
+30.3.2024, 17:53:33 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:56:03 - INFO - Req was made | / 
+30.3.2024, 17:56:03 - DEBUG - Getting Toys | {"txt":""} 
+30.3.2024, 17:56:03 - INFO - Req was made | / 
+30.3.2024, 17:56:03 - DEBUG - Getting Toys | {"txt":""} 
