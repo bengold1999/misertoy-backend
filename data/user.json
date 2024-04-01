@@ -1,6 +1,13 @@
 [
   
   {
+    "fullName": "admin",
+    "username": "admin",
+    "password": "admin",
+    "isAdmin": true,
+    "createdAt": 1599074622555
+  },
+  {
     "fullName": "Stav Yaar",
     "username": "stu",
     "password": "1234",
