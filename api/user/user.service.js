@@ -67,24 +67,29 @@ async function remove(userId) {
 
 async function update(user) {
     try {
-        console.log(user)
+        let userPervious = await getById(user._id)
+        console.log(userPervious)
         const userToSave = {
             _id: ObjectId(user._id),
             username: user.username,
             fullname: user.fullname,
-            password: user.password,
             isAdmin: user.isAdmin,
             createdAt: user.createdAt,
             score: user.score
         }
         const collection = await dbService.getCollection('user')
-        await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
+        await collection.updateOne({ _id: userToSave._id, score: userPervious.score  }, {
+            $set: {
+                "score.$": user.score
+            }
+        })
         return userToSave
     } catch (err) {
         logger.error(`cannot update user ${user._id}`, err)
         throw err
     }
 }
+
 
 async function add(user) {
     try {

@@ -37,6 +37,7 @@ export async function deleteUser(req, res) {
 
 export async function updateUser(req, res) {
     try {
+        
         const user = req.body
         const savedUser = await userService.update(user)
         res.send(savedUser)

@@ -2238,3 +2238,186 @@
 1.4.2024, 0:29:31 - INFO - Req was made | / 
 1.4.2024, 0:29:31 - INFO - Req was made | / 
 1.4.2024, 0:29:31 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 1:36:56 - INFO - server.js loaded... 
+1.4.2024, 1:36:56 - INFO - Server is running on port: 3050 
+1.4.2024, 1:37:13 - INFO - Req was made | / 
+1.4.2024, 1:37:13 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 1:37:13 - INFO - Req was made | / 
+1.4.2024, 1:37:13 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 1:37:20 - DEBUG - auth.service - login with username: 12 
+1.4.2024, 1:37:20 - INFO - User login:  | {"_id":"6609d2b1489f5a3288405109","username":"12","fullname":"12","isAdmin":false,"createdAt":1711919793299,"score":1000} 
+1.4.2024, 1:37:41 - INFO - Req was made | / 
+1.4.2024, 1:37:41 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 1:37:41 - INFO - Req was made | / 
+1.4.2024, 1:37:41 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:00:13 - INFO - server.js loaded... 
+1.4.2024, 12:00:13 - INFO - Server is running on port: 3050 
+1.4.2024, 12:00:38 - INFO - Req was made | / 
+1.4.2024, 12:00:38 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:00:38 - INFO - Req was made | / 
+1.4.2024, 12:00:38 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:00:54 - DEBUG - auth.service - signup with username: 1234, fullname: 1234 
+1.4.2024, 12:00:54 - DEBUG - auth.route - new account created: {"username":"1234","password":"$2b$10$k5U2cCN8aphEHmtaIVXOI.9.kS/eQEbwGfeBDoInZYG0GJj1TbDOG","fullname":"1234","isAdmin":false,"createdAt":1711962054947,"score":1000,"_id":"660a77c6433a4209fce7111a"} 
+1.4.2024, 12:00:54 - DEBUG - auth.service - login with username: 1234 
+1.4.2024, 12:02:09 - INFO - Req was made | / 
+1.4.2024, 12:02:09 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:02:09 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:02:09 - INFO - Req was made | / 
+1.4.2024, 12:02:51 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:02:51 - INFO - Req was made | / 
+1.4.2024, 12:02:51 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:02:51 - INFO - Req was made | / 
+1.4.2024, 12:02:54 - INFO - Req was made | / 
+1.4.2024, 12:02:54 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:02:54 - INFO - Req was made | / 
+1.4.2024, 12:02:54 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:09:18 - INFO - Req was made | / 
+1.4.2024, 12:09:18 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:09:31 - DEBUG - auth.service - signup with username: 1234, fullname: 1234 
+1.4.2024, 12:09:32 - ERROR - cannot insert user | Error: Username taken 
+1.4.2024, 12:09:32 - ERROR - Failed to signup Error: Username taken 
+1.4.2024, 12:09:36 - DEBUG - auth.service - signup with username: 12345, fullname: 12345 
+1.4.2024, 12:09:36 - DEBUG - auth.service - login with username: 12345 
+1.4.2024, 12:09:36 - DEBUG - auth.route - new account created: {"username":"12345","password":"$2b$10$wmteyNZu52KC3PQoYDiqZ.tMEbYAbKfS.h6nX1f86k/fj9HBXpkFq","fullname":"12345","isAdmin":false,"createdAt":1711962576950,"score":1000,"_id":"660a79d0433a4209fce7111b"} 
+1.4.2024, 12:09:48 - INFO - Req was made | / 
+1.4.2024, 12:09:48 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:09:48 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:09:48 - INFO - Req was made | / 
+1.4.2024, 12:12:55 - DEBUG - auth.service - signup with username: 55, fullname: 55 
+1.4.2024, 12:12:56 - DEBUG - auth.route - new account created: {"username":"55","password":"$2b$10$Uq2LWC7CQi6sqHluMSw2zOSIU5nkHDUJKaAE9/V9wpsxT4DsvjXwq","fullname":"55","isAdmin":false,"createdAt":1711962776046,"score":1000,"_id":"660a7a98433a4209fce7111c"} 
+1.4.2024, 12:12:56 - DEBUG - auth.service - login with username: 55 
+1.4.2024, 12:12:59 - INFO - Req was made | / 
+1.4.2024, 12:12:59 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:12:59 - INFO - Req was made | / 
+1.4.2024, 12:12:59 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:15:53 - DEBUG - auth.service - signup with username: 54, fullname: 54 
+1.4.2024, 12:15:54 - DEBUG - auth.route - new account created: {"username":"54","password":"$2b$10$hmYJaO3GxhY.PHvOYjBucemfNt7teAkqPRaDNtsZqCcyVVuIz9QR6","fullname":"54","isAdmin":false,"createdAt":1711962954031,"score":1000,"_id":"660a7b4a433a4209fce7111d"} 
+1.4.2024, 12:15:54 - DEBUG - auth.service - login with username: 54 
+1.4.2024, 12:15:56 - INFO - Req was made | / 
+1.4.2024, 12:15:56 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:15:56 - INFO - Req was made | / 
+1.4.2024, 12:15:56 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:18:32 - DEBUG - auth.service - signup with username: 56, fullname: 56 
+1.4.2024, 12:18:32 - DEBUG - auth.service - login with username: 56 
+1.4.2024, 12:18:32 - DEBUG - auth.route - new account created: {"username":"56","password":"$2b$10$Yzb.Fx84j8eZjoTjG9ZFO.Pyj.yHc6VeIB.JNL9p39BxtmwxBke7W","fullname":"56","isAdmin":false,"createdAt":1711963112823,"score":1000,"_id":"660a7be8433a4209fce7111e"} 
+1.4.2024, 12:18:37 - INFO - Req was made | / 
+1.4.2024, 12:18:37 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:18:37 - INFO - Req was made | / 
+1.4.2024, 12:18:37 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:20:26 - INFO - Req was made | / 
+1.4.2024, 12:20:26 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:20:26 - INFO - Req was made | / 
+1.4.2024, 12:20:26 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:21:19 - INFO - Req was made | / 
+1.4.2024, 12:21:19 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:21:19 - INFO - Req was made | / 
+1.4.2024, 12:21:19 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:21:31 - DEBUG - auth.service - signup with username: 22, fullname: 22 
+1.4.2024, 12:21:31 - DEBUG - auth.route - new account created: {"username":"22","password":"$2b$10$zvdbe2mZIZl5bXR0GIMK7eU2KNhypDsU5EJesKMGm/tpX7aIDWELC","fullname":"22","isAdmin":false,"createdAt":1711963291565,"score":1000,"_id":"660a7c9b433a4209fce7111f"} 
+1.4.2024, 12:21:31 - DEBUG - auth.service - login with username: 22 
+1.4.2024, 12:27:39 - DEBUG - auth.service - signup with username: 77, fullname: 77 
+1.4.2024, 12:27:39 - DEBUG - auth.route - new account created: {"username":"77","password":"$2b$10$JeZ6G9G7Fh/qPl/CvY219uIJs3eS1Jpbe4C6jb7D9mQx/a35QISdC","fullname":"77","isAdmin":false,"createdAt":1711963659392,"score":1000,"_id":"660a7e0b433a4209fce71120"} 
+1.4.2024, 12:27:39 - DEBUG - auth.service - login with username: 77 
+1.4.2024, 12:27:42 - INFO - Req was made | / 
+1.4.2024, 12:27:42 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:27:42 - INFO - Req was made | / 
+1.4.2024, 12:27:42 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:29:00 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:29:00 - INFO - Req was made | / 
+1.4.2024, 12:29:00 - INFO - Req was made | / 
+1.4.2024, 12:29:00 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:29:07 - DEBUG - auth.service - signup with username: 45, fullname: 45 
+1.4.2024, 12:29:07 - DEBUG - auth.route - new account created: {"username":"45","password":"$2b$10$XaxS1edRpdKEwuVTQs.sGeOzAqu0QXqThYfy01xw44DqSkZFk//Eu","fullname":"45","isAdmin":false,"createdAt":1711963747510,"score":1000,"_id":"660a7e63433a4209fce71121"} 
+1.4.2024, 12:29:07 - DEBUG - auth.service - login with username: 45 
+1.4.2024, 12:31:23 - DEBUG - auth.service - signup with username: 666, fullname: 666 
+1.4.2024, 12:31:23 - DEBUG - auth.route - new account created: {"username":"666","password":"$2b$10$eSW3g3uKAqd9C6zd2isI4ukpjG8ior6kc7wUNK/ZYdoPghTFqoLE.","fullname":"666","isAdmin":false,"createdAt":1711963883964,"score":1000,"_id":"660a7eeb433a4209fce71122"} 
+1.4.2024, 12:31:23 - DEBUG - auth.service - login with username: 666 
+1.4.2024, 12:31:25 - INFO - Req was made | / 
+1.4.2024, 12:31:25 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:31:25 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:31:25 - INFO - Req was made | / 
+1.4.2024, 12:46:04 - DEBUG - auth.service - signup with username: beno, fullname: beno 
+1.4.2024, 12:46:04 - DEBUG - auth.route - new account created: {"username":"beno","password":"$2b$10$D6.ZNXv2YFVDsB.EvLuEYOf1E4gsjtphm5/VswjGcqT4ZYD0r8Iqa","fullname":"beno","isAdmin":false,"createdAt":1711964764096,"score":1000,"_id":"660a825c433a4209fce71123"} 
+1.4.2024, 12:46:04 - DEBUG - auth.service - login with username: beno 
+1.4.2024, 12:46:06 - INFO - Req was made | / 
+1.4.2024, 12:46:06 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:46:06 - INFO - Req was made | / 
+1.4.2024, 12:46:06 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:54:14 - DEBUG - auth.service - signup with username: 899, fullname: 899 
+1.4.2024, 12:54:14 - DEBUG - auth.route - new account created: {"username":"899","password":"$2b$10$HYUISpzuweJE89B5xVybX.ruZOVRpVPxf413Yu2b6uE6WdI23NiZG","fullname":"899","isAdmin":false,"createdAt":1711965254920,"score":1000,"_id":"660a8446433a4209fce71124"} 
+1.4.2024, 12:54:14 - DEBUG - auth.service - login with username: 899 
+1.4.2024, 12:54:17 - INFO - Req was made | / 
+1.4.2024, 12:54:17 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:54:17 - INFO - Req was made | / 
+1.4.2024, 12:54:17 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:55:54 - DEBUG - auth.service - signup with username: sdss, fullname: dsds 
+1.4.2024, 12:55:54 - DEBUG - auth.route - new account created: {"username":"sdss","password":"$2b$10$luFI.rLAHBP83L.5dMXv8eMvLjLvWEwwcmHEYrH.SPqp7dbG5DdM2","fullname":"dsds","isAdmin":false,"createdAt":1711965354220,"score":1000,"_id":"660a84aa433a4209fce71125"} 
+1.4.2024, 12:55:54 - DEBUG - auth.service - login with username: sdss 
+1.4.2024, 12:55:58 - INFO - Req was made | / 
+1.4.2024, 12:55:58 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 12:55:58 - INFO - Req was made | / 
+1.4.2024, 12:55:58 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:18:56 - DEBUG - auth.service - signup with username: 66666, fullname: 666666 
+1.4.2024, 13:18:56 - DEBUG - auth.route - new account created: {"username":"66666","password":"$2b$10$YUD3j8DCYN98gkMh4fx8/OzbX6b94f90ccNpGLURAJupZoixkHwv2","fullname":"666666","isAdmin":false,"createdAt":1711966736978,"score":1000,"_id":"660a8a10433a4209fce71126"} 
+1.4.2024, 13:18:56 - DEBUG - auth.service - login with username: 66666 
+1.4.2024, 13:19:00 - INFO - Req was made | / 
+1.4.2024, 13:19:00 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:19:00 - INFO - Req was made | / 
+1.4.2024, 13:19:00 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:21:02 - DEBUG - auth.service - signup with username: dddd, fullname: dddd 
+1.4.2024, 13:21:02 - DEBUG - auth.route - new account created: {"username":"dddd","password":"$2b$10$u1M.MOk3WWGM/H7sKYU7regscncBBKaBjrOY1ItTwjZCf2yy.b3J6","fullname":"dddd","isAdmin":false,"createdAt":1711966862671,"score":1000,"_id":"660a8a8e433a4209fce71127"} 
+1.4.2024, 13:21:02 - DEBUG - auth.service - login with username: dddd 
+1.4.2024, 13:21:32 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:21:32 - INFO - Req was made | / 
+1.4.2024, 13:21:32 - INFO - Req was made | / 
+1.4.2024, 13:21:32 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:24:27 - INFO - server.js loaded... 
+1.4.2024, 13:24:27 - INFO - Server is running on port: 3050 
+1.4.2024, 13:24:31 - INFO - Req was made | / 
+1.4.2024, 13:24:31 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:24:31 - INFO - Req was made | / 
+1.4.2024, 13:24:31 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:24:37 - DEBUG - auth.service - signup with username: gggg, fullname: ggggg 
+1.4.2024, 13:24:37 - DEBUG - auth.route - new account created: {"username":"gggg","password":"$2b$10$r45oZFPpQFwodjfqI0FirOc0xJGXpHqsHb1ocfKsUG8j9tmHttJu6","fullname":"ggggg","isAdmin":false,"createdAt":1711967077834,"score":1000,"_id":"660a8b6578113b8570ad4309"} 
+1.4.2024, 13:24:37 - DEBUG - auth.service - login with username: gggg 
+1.4.2024, 13:24:46 - ERROR - cannot update user 660a8b6578113b8570ad4309 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:24:46 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:26:07 - ERROR - cannot update user 660a8b6578113b8570ad4309 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:26:07 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:31:24 - ERROR - cannot update user 660a8b6578113b8570ad4309 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:31:24 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:33:12 - INFO - server.js loaded... 
+1.4.2024, 13:33:12 - INFO - Server is running on port: 3050 
+1.4.2024, 13:33:30 - DEBUG - auth.service - signup with username: 7777777, fullname: 77777777 
+1.4.2024, 13:33:30 - DEBUG - auth.route - new account created: {"username":"7777777","password":"$2b$10$MEfxJbypV6FP8bGWitvBge3kQ.o7H13FC93bAruR.LUB/YmEIEWBm","fullname":"77777777","isAdmin":false,"createdAt":1711967610186,"score":1000,"_id":"660a8d7a8be94d8018ad3588"} 
+1.4.2024, 13:33:30 - DEBUG - auth.service - login with username: 7777777 
+1.4.2024, 13:33:40 - INFO - Req was made | / 
+1.4.2024, 13:33:40 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:33:40 - INFO - Req was made | / 
+1.4.2024, 13:33:40 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:33:46 - ERROR - cannot update user 660a8d7a8be94d8018ad3588 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:33:46 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:34:44 - INFO - Req was made | / 
+1.4.2024, 13:34:44 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:34:44 - INFO - Req was made | / 
+1.4.2024, 13:34:44 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:34:50 - ERROR - cannot update user 660a8d7a8be94d8018ad3588 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:34:50 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:41:55 - ERROR - cannot update user 660a8d7a8be94d8018ad3588 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:41:55 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:43:13 - ERROR - cannot update user 660a8d7a8be94d8018ad3588 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:43:13 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:43:20 - ERROR - cannot update user 660a8d7a8be94d8018ad3588 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:43:20 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:43:31 - ERROR - cannot update user 660a8d7a8be94d8018ad3588 | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:43:31 - ERROR - Failed to update user | MongoError: The positional operator did not find the match needed from the query. 
+1.4.2024, 13:44:22 - INFO - server.js loaded... 
+1.4.2024, 13:44:22 - INFO - Server is running on port: 3050 
+1.4.2024, 13:44:27 - INFO - Req was made | / 
+1.4.2024, 13:44:27 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:44:27 - INFO - Req was made | / 
+1.4.2024, 13:44:27 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:48:40 - INFO - Req was made | / 
+1.4.2024, 13:48:40 - DEBUG - Getting Toys | {"txt":""} 
+1.4.2024, 13:48:40 - INFO - Req was made | / 
+1.4.2024, 13:48:40 - DEBUG - Getting Toys | {"txt":""} 
