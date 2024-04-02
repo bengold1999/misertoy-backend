@@ -4639,3 +4639,468 @@
 2.4.2024, 14:04:08 - DEBUG - Getting Toys | {"txt":""} 
 2.4.2024, 14:04:17 - DEBUG - auth.service - login with username: admin 
 2.4.2024, 14:04:17 - INFO - User login:  | {"_id":"6605936d7690444ca08b0076","username":"admin","fullname":"Admin","isAdmin":true,"createdAt":12209304004359} 
+2.4.2024, 14:05:48 - INFO - server.js loaded... 
+2.4.2024, 14:05:48 - INFO - Server is running on port: 3050 
+2.4.2024, 14:05:50 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:05:53 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:05:53 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:05:53 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:05:57 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:05:57 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:05:57 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:05:57 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:19:09 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:19:09 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:19:12 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:19:12 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:19:12 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:19:12 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:21:16 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:21:16 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:21:17 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:21:17 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:22:59 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:22:59 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:22:59 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:22:59 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:23:20 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:23:20 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:23:20 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:23:20 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 14:23:26 - DEBUG - auth.service - login with username: 12 
+2.4.2024, 14:23:26 - INFO - User login:  | {"_id":"660ad91c01806677801f8b23","username":"12","fullname":"12","isAdmin":false,"createdAt":1711986972353,"score":1000} 
+2.4.2024, 14:23:42 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:23:42 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:28:22 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:28:22 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:28:22 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:28:22 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:28:28 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:28:28 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:36:43 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:36:43 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:36:43 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:36:43 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:36:49 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:36:49 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:43:16 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:43:16 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:43:16 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:43:16 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:43:24 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:43:24 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:49:12 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:49:12 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:49:12 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:49:12 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:49:17 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:49:17 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:07 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:07 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:12 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:12 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:12 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:12 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:17 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:51:17 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:53:52 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:53:52 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:53:52 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:53:52 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:54:02 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 14:54:02 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:15:45 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:15:45 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:15:45 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:15:45 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:16:14 - DEBUG - auth.service - login with username: admin 
+2.4.2024, 15:16:14 - INFO - User login:  | {"_id":"6605936d7690444ca08b0076","username":"admin","fullname":"Admin","isAdmin":true,"createdAt":12209304004359} 
+2.4.2024, 15:16:38 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:16:38 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:16:38 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:16:38 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:16:44 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:16:44 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:16:44 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:16:44 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:18:44 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:18:44 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:18:44 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:18:44 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:19:32 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:19:32 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:19:32 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:19:32 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:20:43 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:20:43 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:20:43 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:20:43 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:24:43 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:24:43 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:24:44 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:24:44 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:33:37 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:33:37 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:33:37 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:33:37 - DEBUG - Getting Toys | {"txt":""} (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:33:40 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:33:42 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:37:03 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:37:08 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:37:45 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:37:47 - INFO - Req was made | / (userId: 6605936d7690444ca08b0076)
+2.4.2024, 15:37:53 - INFO - Req was made | / 
+2.4.2024, 15:37:56 - DEBUG - auth.service - login with username: 12 
+2.4.2024, 15:37:56 - INFO - User login:  | {"_id":"660ad91c01806677801f8b23","username":"12","fullname":"12","isAdmin":false,"createdAt":1711986972353,"score":1000} 
+2.4.2024, 15:37:59 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:39:27 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:39:29 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:39:29 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:39:29 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:39:29 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:39:50 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:39:50 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:48:30 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:48:30 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:48:30 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:48:30 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:52:11 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:52:11 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:52:13 - ERROR - cannot update user 660ad91c01806677801f8b23 | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:52:13 - ERROR - Failed to update user | MongoServerError: The positional operator did not find the match needed from the query. (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:54:40 - INFO - server.js loaded... 
+2.4.2024, 15:54:40 - INFO - Server is running on port: 3050 
+2.4.2024, 15:54:44 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:54:44 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:54:44 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:54:44 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 15:56:46 - DEBUG - auth.service - login with username: 12 
+2.4.2024, 15:56:46 - INFO - User login:  | {"_id":"660ad91c01806677801f8b23","username":"12","fullname":"12","isAdmin":false,"createdAt":1711986972353,"score":1000} 
+2.4.2024, 16:01:14 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:01:14 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:01:14 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:01:14 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:03 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:03 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:03 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:03 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:12 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:17 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:17 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:17 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:17 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:02:31 - DEBUG - auth.service - login with username: 12 
+2.4.2024, 16:02:31 - INFO - User login:  | {"_id":"660ad91c01806677801f8b23","username":"12","fullname":"12","isAdmin":false,"createdAt":1711986972353,"score":1000} 
+2.4.2024, 16:04:42 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:04:42 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:04:42 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:04:42 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:06:34 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:06:34 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:06:34 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:06:34 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:07:15 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:07:15 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:07:15 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:07:15 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:08:27 - INFO - Req was made | / 
+2.4.2024, 16:08:27 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 16:08:27 - INFO - Req was made | / 
+2.4.2024, 16:08:27 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 16:08:36 - DEBUG - auth.service - login with username: 12 
+2.4.2024, 16:08:36 - INFO - User login:  | {"_id":"660ad91c01806677801f8b23","username":"12","fullname":"12","isAdmin":false,"createdAt":1711986972353,"score":1000} 
+2.4.2024, 16:08:39 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:08:39 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:08:39 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:08:39 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:08:41 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:10:16 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:10:25 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:24 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:24 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:24 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:24 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:24 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:26 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:26 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:26 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:26 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:26 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:29 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:29 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:29 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:29 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:29 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:45 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:45 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:45 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:45 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:45 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:55 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:55 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:55 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:55 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:55 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:57 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:57 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:57 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:57 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:17:57 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:01 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:01 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:01 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:01 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:01 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:21 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:21 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:21 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:21 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:21 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:22 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:22 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:22 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:22 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:22 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:28 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:28 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:28 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:28 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:28 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:30 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:30 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:30 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:30 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:30 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:57 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:57 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:57 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:57 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:18:57 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:03 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:03 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:03 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:03 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:03 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:05 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:05 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:05 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:05 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:05 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:15 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:15 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:15 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:15 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:15 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:17 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:17 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:17 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:17 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:19:17 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:22:34 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:22:34 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:22:34 - DEBUG - Getting Toys |  (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:22:34 - ERROR - cannot find toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:22:34 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:37:47 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:38:00 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:42:24 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:42:26 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:42:30 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:44:18 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:45:11 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:45:16 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:45:17 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:45:38 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:45:38 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:45:38 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:45:38 - DEBUG - Getting Toys | {"txt":""} (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:47:33 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:47:36 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:48:19 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:48:33 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:48:34 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:49:01 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:49:19 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:49:52 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:49:55 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:49:57 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 16:51:25 - INFO - Req was made | / 
+2.4.2024, 16:51:25 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 16:51:25 - INFO - Req was made | / 
+2.4.2024, 16:51:25 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 16:51:40 - INFO - Req was made | / 
+2.4.2024, 16:51:40 - INFO - Req was made | / 
+2.4.2024, 16:51:40 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 16:51:40 - INFO - Req was made | / 
+2.4.2024, 16:51:40 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:30:09 - INFO - Req was made | / 
+2.4.2024, 17:32:12 - INFO - Req was made | / 
+2.4.2024, 17:32:16 - INFO - Req was made | / 
+2.4.2024, 17:32:55 - INFO - Req was made | / 
+2.4.2024, 17:33:01 - INFO - Req was made | / 
+2.4.2024, 17:35:00 - INFO - Req was made | / 
+2.4.2024, 17:35:04 - INFO - Req was made | / 
+2.4.2024, 17:35:07 - INFO - Req was made | / 
+2.4.2024, 17:35:07 - ERROR - cannot insert review | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+2.4.2024, 17:35:07 - ERROR - Failed to add review | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+2.4.2024, 17:35:10 - INFO - Req was made | / 
+2.4.2024, 17:35:19 - DEBUG - auth.service - login with username: 12 
+2.4.2024, 17:35:19 - INFO - User login:  | {"_id":"660ad91c01806677801f8b23","username":"12","fullname":"12","isAdmin":false,"createdAt":1711986972353,"score":1000} 
+2.4.2024, 17:35:22 - INFO - Req was made | / (userId: 660ad91c01806677801f8b23)
+2.4.2024, 17:35:22 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (userId: 660ad91c01806677801f8b23)
+2.4.2024, 17:35:22 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (userId: 660ad91c01806677801f8b23)
+2.4.2024, 17:40:01 - INFO - Req was made | / 
+2.4.2024, 17:40:01 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:40:01 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:40:48 - INFO - Req was made | / 
+2.4.2024, 17:40:53 - INFO - Req was made | / 
+2.4.2024, 17:40:54 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:40:54 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:43:31 - INFO - Req was made | / 
+2.4.2024, 17:43:39 - INFO - Req was made | / 
+2.4.2024, 17:43:39 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:43:39 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:44:04 - INFO - Req was made | / 
+2.4.2024, 17:44:31 - INFO - Req was made | / 
+2.4.2024, 17:44:34 - INFO - Req was made | / 
+2.4.2024, 17:44:34 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:44:34 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:45:42 - INFO - Req was made | / 
+2.4.2024, 17:45:44 - INFO - Req was made | / 
+2.4.2024, 17:45:44 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:45:44 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:45:51 - INFO - Req was made | / 
+2.4.2024, 17:45:51 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:45:51 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:46:11 - INFO - server.js loaded... 
+2.4.2024, 17:46:11 - INFO - Server is running on port: 3050 
+2.4.2024, 17:46:13 - INFO - Req was made | / 
+2.4.2024, 17:46:17 - INFO - Req was made | / 
+2.4.2024, 17:46:17 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:46:17 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:46:54 - INFO - Req was made | / 
+2.4.2024, 17:47:21 - INFO - Req was made | / 
+2.4.2024, 17:47:21 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:47:21 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:47:21 - INFO - Req was made | / 
+2.4.2024, 17:47:31 - INFO - Req was made | / 
+2.4.2024, 17:47:31 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:47:31 - INFO - Req was made | / 
+2.4.2024, 17:47:31 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:48:03 - INFO - Req was made | / 
+2.4.2024, 17:48:07 - INFO - Req was made | / 
+2.4.2024, 17:48:07 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:48:07 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:48:42 - INFO - Req was made | / 
+2.4.2024, 17:48:42 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:48:42 - INFO - Req was made | / 
+2.4.2024, 17:48:42 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:48:47 - INFO - Req was made | / 
+2.4.2024, 17:48:49 - INFO - Req was made | / 
+2.4.2024, 17:48:49 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:48:49 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:48:49 - INFO - Req was made | / 
+2.4.2024, 17:48:51 - INFO - Req was made | / 
+2.4.2024, 17:48:56 - INFO - Req was made | / 
+2.4.2024, 17:48:56 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:48:56 - INFO - Req was made | / 
+2.4.2024, 17:48:56 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:48:59 - INFO - Req was made | / 
+2.4.2024, 17:49:04 - INFO - Req was made | / 
+2.4.2024, 17:49:04 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:49:04 - INFO - Req was made | / 
+2.4.2024, 17:49:04 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:50:41 - INFO - Req was made | / 
+2.4.2024, 17:50:41 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:50:41 - INFO - Req was made | / 
+2.4.2024, 17:50:41 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 17:54:14 - INFO - Req was made | / 
+2.4.2024, 17:54:17 - INFO - Req was made | / 
+2.4.2024, 17:54:17 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:54:17 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:54:21 - INFO - Req was made | / 
+2.4.2024, 17:54:26 - INFO - Req was made | / 
+2.4.2024, 17:54:26 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:54:26 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:55:29 - INFO - server.js loaded... 
+2.4.2024, 17:55:29 - INFO - Server is running on port: 3050 
+2.4.2024, 17:55:32 - INFO - Req was made | / 
+2.4.2024, 17:55:42 - INFO - Req was made | / 
+2.4.2024, 17:55:42 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 17:55:42 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:01:57 - INFO - Req was made | / 
+2.4.2024, 18:02:03 - INFO - Req was made | / 
+2.4.2024, 18:02:03 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:02:03 - INFO - Req was made | / 
+2.4.2024, 18:02:03 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:02:05 - INFO - Req was made | / 
+2.4.2024, 18:02:08 - INFO - Req was made | / 
+2.4.2024, 18:02:08 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:02:08 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:02:08 - INFO - Req was made | / 
+2.4.2024, 18:02:08 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:02:08 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:05:18 - INFO - Req was made | / 
+2.4.2024, 18:05:23 - INFO - Req was made | / 
+2.4.2024, 18:05:27 - INFO - Req was made | / 
+2.4.2024, 18:05:30 - INFO - Req was made | / 
+2.4.2024, 18:05:33 - INFO - Req was made | / 
+2.4.2024, 18:05:52 - INFO - Req was made | / 
+2.4.2024, 18:05:52 - INFO - Req was made | / 
+2.4.2024, 18:05:52 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:05:56 - INFO - Req was made | / 
+2.4.2024, 18:05:56 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:05:56 - INFO - Req was made | / 
+2.4.2024, 18:06:03 - INFO - Req was made | / 
+2.4.2024, 18:06:03 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:06:03 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:06:05 - INFO - Req was made | / 
+2.4.2024, 18:06:05 - INFO - Req was made | / 
+2.4.2024, 18:06:05 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:06:25 - INFO - Req was made | / 
+2.4.2024, 18:06:25 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:06:25 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:06:27 - INFO - Req was made | / 
+2.4.2024, 18:06:27 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:06:27 - INFO - Req was made | / 
+2.4.2024, 18:09:56 - INFO - Req was made | / 
+2.4.2024, 18:09:56 - INFO - Req was made | / 
+2.4.2024, 18:09:56 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:10:01 - INFO - Req was made | / 
+2.4.2024, 18:10:01 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:10:01 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:10:05 - INFO - Req was made | / 
+2.4.2024, 18:10:05 - INFO - Req was made | / 
+2.4.2024, 18:10:05 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:10:48 - INFO - Req was made | / 
+2.4.2024, 18:10:48 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:10:48 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:10:51 - INFO - Req was made | / 
+2.4.2024, 18:10:51 - INFO - Req was made | / 
+2.4.2024, 18:10:51 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:11:09 - INFO - server.js loaded... 
+2.4.2024, 18:11:09 - INFO - Server is running on port: 3050 
+2.4.2024, 18:11:11 - INFO - Req was made | / 
+2.4.2024, 18:11:12 - INFO - Req was made | / 
+2.4.2024, 18:11:12 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:11:46 - INFO - Req was made | / 
+2.4.2024, 18:11:46 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:11:46 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:11:51 - INFO - Req was made | / 
+2.4.2024, 18:11:51 - INFO - Req was made | / 
+2.4.2024, 18:11:51 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:11:59 - INFO - Req was made | / 
+2.4.2024, 18:11:59 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:11:59 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:12:02 - INFO - Req was made | / 
+2.4.2024, 18:12:02 - INFO - Req was made | / 
+2.4.2024, 18:12:02 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:13:01 - INFO - Req was made | / 
+2.4.2024, 18:13:01 - INFO - Req was made | / 
+2.4.2024, 18:13:01 - DEBUG - Getting Toys | {"txt":""} 
+2.4.2024, 18:13:05 - INFO - Req was made | / 
+2.4.2024, 18:13:05 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:13:05 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+2.4.2024, 18:18:05 - INFO - Req was made | / 
+2.4.2024, 18:18:05 - INFO - Req was made | / 
+2.4.2024, 18:18:05 - DEBUG - Getting Toys | {"txt":""} 

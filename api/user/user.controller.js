@@ -1,5 +1,6 @@
 import { userService } from './user.service.js'
 import { logger } from '../../services/logger.service.js'
+import { log } from '../../middlewares/logger.middleware.js'
 
 export async function getUser(req, res) {
     try {
@@ -37,7 +38,9 @@ export async function deleteUser(req, res) {
 
 export async function updateUser(req, res) {
     try {
+        console.log('hegati')
         const user = req.body
+        console.log(user);
         const savedUser = await userService.update(user)
         res.send(savedUser)
     } catch (err) {

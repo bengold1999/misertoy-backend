@@ -37,6 +37,7 @@ export async function addReview(req, res) {
     try {
         var review = req.body
         review.userId = loggedinUser._id
+        console.log("revie",review)
 
         // review.toyId = await toyService.getById(review.toyId)
         console.log(review)
